@@ -25,7 +25,7 @@
 ## ローカルでの実行方法 (Installation)
 ```bash
 # リポジトリのクローン
-git clone [https://github.com/](https://github.com/)kazukiimai1118/cell-lineage-manager.git
+git clone [https://github.com/](https://github.com/)kazukiimai1118-ship-it/cell-lineage-manager.git
 
 # ディレクトリへ移動
 cd cell-lineage-manager
